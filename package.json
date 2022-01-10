@@ -32,9 +32,9 @@
 		"photo"
 	],
 	"devDependencies": {
-		"ava": "^2.1.0",
-		"tsd": "^0.15.1",
-		"xo": "^0.39.0"
+		"ava": "^4.0.1",
+		"tsd": "^0.19.1",
+		"xo": "^0.47.0"
 	},
 	"ava": {
 		"serial": true
